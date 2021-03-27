@@ -21,4 +21,4 @@ For more click help....</b>"""
 
 ❄<b>Youtube :</b> <a href='https://www.youtube.com/channel/UCD-g7g3-tfvKECxXKqySq7g'>👉Click Here👈</a>
 
-❄<b>Telegram group :</b> 👉 <a href='https://t.me/Hackerrdt'>👉Click Here👈</a>"""
+❄<b>Telegram group :</b> 👉 <a href='https://t.me/Hackerrdt'>Click Here👈</a>"""
