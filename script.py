@@ -1,6 +1,6 @@
 class script(object):
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = "https://telegra.ph/file/81d165be6b77dc5d83c0f.jpg"" <b>Hi {}
 
 I'm a Image Editor Bot which Supports various modes
 
