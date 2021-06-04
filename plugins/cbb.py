@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "OUR CHANNEL", url="https://t.me/Network_hacker_bots"
+                        "OUR CHANNEL", url="https://t.me/NET_HACKER_BOTs"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "OUR GROUP", url="https://t.me/Hackerrdt"
+                        "OUR GROUP", url="https://t.me/NET_HACKER_BOTs"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "FACEBOOK GROUP", url="https://www.facebook.com/groups/314272246591579/?ref=share"
+                        "CREATER", url="https://t.me/ImBhashitha"
                     )
                 ],
             ]
