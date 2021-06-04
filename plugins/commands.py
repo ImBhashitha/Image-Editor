@@ -19,7 +19,7 @@ async def start(client: Client, message: Message):
                     [
                         InlineKeyboardButton(
                             "OUR CHANNEL",
-                            url="https://t.me/Network_hacker_bots",
+                            url="https://t.me/NET_HACKER_BOTs",
                         )
                     ],
                 ]
@@ -45,7 +45,7 @@ async def help(client, message):
                     [
                         InlineKeyboardButton(
                             "OUR GROUP",
-                            url="https://t.me/Hackerrdt",
+                            url="https://t.me/NET_HACKER_BOTs_chat",
                         )
                     ],
                 ]
@@ -70,8 +70,8 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "FACEBOOK GROUP",
-                            url="https://www.facebook.com/groups/314272246591579/?ref=share",
+                            "CREATER",
+                            url="https://t.me/ImBhashitha",
                         )
                     ],
                 ]
