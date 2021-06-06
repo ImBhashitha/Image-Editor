@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "OUR GROUP", url="https://t.me/NET_HACKER_BOTs"
+                        "OUR GROUP", url="https://t.me/NET_HACKER_BOTs_chat"
                     )
                 ],
             ]
