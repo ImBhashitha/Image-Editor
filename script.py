@@ -14,11 +14,11 @@ For more click help....</b>"""
 <code>🌀 Your Edited Image will be Uploaded </code>
 
 
-© @Network_hacker_bots"""
+© @NET_HACKER_BOTs"""
     ABOUT_MSG = """❄<b>My Name : Image Editor</b>
 
 ❄<b>Language :</b> <code>Python3</code>
 
 ❄<b>Youtube :</b> <a href='https://www.youtube.com/channel/UCD-g7g3-tfvKECxXKqySq7g'>👉Click Here👈</a>
 
-❄<b>Telegram group :</b> 👉 <a href='https://t.me/Hackerrdt'>Click Here👈</a>"""
+❄<b>Telegram group :</b> 👉 <a href='https://t.me/NET_HACKER_BOTs_chat'>Click Here👈</a>"""
